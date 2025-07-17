@@ -1334,6 +1334,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service.xml
 
 PRODUCT_PACKAGES += \
+    system_ext_priv-app_WfdService_lib_arm64_libwfdnative_so \
     vendor_lib_libEGL_adreno_so \
     vendor_lib_libGLESv2_adreno_so \
     vendor_lib_libq3dtools_adreno_so \
